@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.team-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: blue solid 2px;
+  margin: 5px;
+}
+.img {
+  height: 80px;
+  width: 80px;
+}
+.heading {
+  font-size: 20px;
+}
